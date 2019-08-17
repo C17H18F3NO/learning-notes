@@ -1,4 +1,4 @@
-# -
+# 学习笔记
 python_learning_notes
 cd 文件名/  （切换文件）
 cd ~ （回到家目录）

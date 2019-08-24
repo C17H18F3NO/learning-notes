@@ -9,3 +9,5 @@ cd ~ （回到家目录）
   git commit -m 'tag1'(随便，最好有意义)
   git pull
   git push
+  
+  git rm -r A （删除A）
